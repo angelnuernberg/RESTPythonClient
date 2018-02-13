@@ -1,0 +1,6 @@
+.cache
+.git
+_pycache_
+.project
+.pydevproject
+
